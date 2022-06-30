@@ -1,4 +1,4 @@
-# BingePlus
+# Binge+
 ![169594257-7af1db2e-7d06-4726-98c4-390029155deb](https://user-images.githubusercontent.com/65642467/176644867-9e35213b-4c96-46cb-a225-70c1d3ec3567.jpg)
 ![169594285-0e7da947-3f8e-48b6-9f41-874491fb40d7](https://user-images.githubusercontent.com/65642467/176644911-7ed6f90f-432c-44cd-a902-45a0794cd14d.jpg)
 ![169594300-8a0a6b6e-7831-4a06-b478-0f2a11136892](https://user-images.githubusercontent.com/65642467/176644927-46c6de06-3dfa-4d28-928e-311ef634a0dc.jpg)
